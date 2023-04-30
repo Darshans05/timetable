@@ -18,7 +18,7 @@ Execute the program
 
 
 # CODE
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -115,12 +115,10 @@ Execute the program
 ```
 
 # OUPUT
-
-![OUTPUT](http://darshans.student.saveetha.in:8000/static/images/timetable output.png?raw=true)
+![timetable output](https://user-images.githubusercontent.com/115534676/235365815-d817320c-4497-4c3d-988f-f82642c90833.png)
 
 # HTML VALIDATOR:
-
-![HTML VALIDATOR](http://darshans.student.saveetha.in:8000/static/imageS/validate.png?raw=true)
+![validate](https://user-images.githubusercontent.com/115534676/235365838-693a56ea-1b01-4dac-8ae0-91b0c52cc0bd.png)
 
 # RESULT:
 The program for creating slot timetable is completed successfully.
